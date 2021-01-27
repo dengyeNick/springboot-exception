@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springboot_exception
+    
+
+server:
+  port: 9094
+
+
